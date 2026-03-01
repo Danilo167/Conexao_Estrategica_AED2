@@ -13,5 +13,9 @@
 <div align = "center">
 <h1>Descição do Problema</h1>
 </div>
-<h3>Ada está jogando um jogo de puzzle em um tabuleiro. Cada casa do tabuleiro tem um custo associado. Lendo os custos da esquerda para a direita percebe-se um padrão. Começando pela primeira linha temos um padrão com os M primeiros inteiros em ordem crescente: 1, 2, 3, ..., M, 1, 2, 3, ..., M, .... Nesse padão M é o maior custo de uma casa.</h3>
+<p>Ada está jogando um jogo de puzzle em um tabuleiro. Cada casa do tabuleiro tem um custo associado. Lendo os custos da esquerda para a direita percebe-se um padrão. Começando pela primeira linha temos um padrão com os M primeiros inteiros em ordem crescente: 1, 2, 3, ..., M, 1, 2, 3, ..., M, .... Nesse padão M é o maior custo de uma casa.
 <br>
+No jogo, Ada precisa comprar uma casa por linha até formar um caminho que conecte o topo do tabuleiro a base dele. A primeira casa a ser comprada deve ser na primeira linha, a segunda casa na segunda linha e assim por diante.
+Dado  um tabuleiro, sua tarefa é descobrir o custo do caminho mais barato que liga o topo a sua base. </p>
+<br>
+<h3>Especificação da Entrada</h3>
